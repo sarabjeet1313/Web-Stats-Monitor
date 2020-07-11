@@ -32,7 +32,7 @@ if global_data:
     emailServer.starttls()
 
     # add own account login details,
-    emailServer.login(senderAddr, "ixobipltldcktjex")
+    emailServer.login(senderAddr, "<password>")
 
     # send the email
     emailServer.sendmail(senderAddr, receiverAddr, finalMessage)
