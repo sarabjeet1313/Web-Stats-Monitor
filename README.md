@@ -1,4 +1,5 @@
-# Covid-Scrapper
+# Web-Stats-Monitor-for-Covid
+
 
 Covid-Report mailer script which scrapes the web to get the latest global COVID-19 report and mail it using the crontab scheduler.
 
